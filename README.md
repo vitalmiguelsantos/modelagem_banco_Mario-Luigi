@@ -29,7 +29,7 @@ Você pode salvar o arquivo como imagem se preferir.
 
 Suba toda sua modelagem no GitHub e descreva seu pensamento para alcançar esse resultado. 
 
-<div display:"inline-block" align="center"><br>
+<div display:"flex" align="center"><br>
   <img align="justify" alt="Lógico" width="500" src="https://cdn.discordapp.com/attachments/947910673470480397/992841443603398799/Captura_de_Tela_37.png">
   <img align="justify" alt="Conceitual" width="500" src="https://cdn.discordapp.com/attachments/947910673470480397/992841443855040512/Captura_de_Tela_38.png">
 </div>
